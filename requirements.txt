@@ -1,0 +1,16 @@
+bidict            
+blinker           
+click             
+colorama          
+Flask             
+Flask-SocketIO    
+h11              
+itsdangerous      
+Jinja2            
+MarkupSafe       
+pip               
+python-engineio   
+python-socketio  
+simple-websocket 
+Werkzeug         
+wsproto          
